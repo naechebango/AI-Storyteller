@@ -1,4 +1,4 @@
-Repository Description:
+##Repository Description:
 
 Title: Procedural Storytelling Game with OpenAI Prompt Engineering
 
