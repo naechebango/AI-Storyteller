@@ -33,6 +33,6 @@ If you're interested in contributing to this project or have ideas for enhanceme
 
 Contact:
 
-For inquiries about the project or potential employment opportunities, you can reach me through via email: cezey01@gmail.com.
+For inquiries about the project or potential employment opportunities, you can reach me via email: cezey01@gmail.com.
 
 Thank you for exploring this repository and experiencing the future of procedurally generative storytelling. I hope you find it both entertaining and insightful into my coding abilities.
