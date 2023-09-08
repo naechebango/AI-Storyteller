@@ -14,7 +14,7 @@ In this repository, you'll find the source code and documentation for a unique s
 
 - **Object-Oriented Design:** Dive into the clean and modular codebase that showcases my proficiency in object-oriented programming. The project's structure demonstrates my ability to design and implement complex systems in Java.
 
-- **Interactive Gameplay:** Experience the magic of procedurally generated stories where your choices shape the narrative. Explore branching storylines, immersive worlds, and intriguing characters, all driven by intelligent algorithms.
+- **Interactive Gameplay:** Experience the magic of procedurally generated stories where your choices shape the narrative. Explore branching storylines, immersive settings, and intriguing characters, all driven by intelligent algorithms.
 
 ## Getting Started:
 
